@@ -1,0 +1,37 @@
+[
+  {
+    "local_source": "upload/01-YGAP-C-ALIS-MA-SON.docx",
+    "sha256": "db2726b0b70446bcf4982618b1bd4403f6f8c77f157fb7b86c90ea358f3faf62",
+    "bytes": 38441
+  },
+  {
+    "local_source": "output/YGAP_Manuscript_English.docx",
+    "sha256": "684f1e381cc4a2ee5da4bf89dae74db27bcb50483a8bb51776239fc3b2874672",
+    "bytes": 49171
+  },
+  {
+    "local_source": "upload/01-OUTPUT.pdf",
+    "sha256": "b74a68cf742919f081c0dd577cd17f3d2aa11b170fc4825f859b7978ad771328",
+    "bytes": 262267
+  },
+  {
+    "local_source": "upload/01-OUTPUT2.pdf",
+    "sha256": "7d4066a228d465bd508a54eb6c98d3d9fd76417885efe0305a93b0eb98ab64bb",
+    "bytes": 532046
+  },
+  {
+    "local_source": "upload/01-YGAP_analiz.sps",
+    "sha256": "3708e92e5f213e67995728d8852e9f3152bf09718c0937fb0849ad163fea76f9",
+    "bytes": 1019
+  },
+  {
+    "local_source": "upload/02-SOSYODEMOGRAFI-YGAP.sav",
+    "sha256": "8460c3a6cd647852db1ae6fea78c0792ab49d47d4d4e429aa33a90c840b22026",
+    "bytes": 2864
+  },
+  {
+    "local_source": "tmp/audit/repository.sav",
+    "sha256": "46527ae60ab4a1eb6e99ed0956aad63a81e42a3a9a1a1422ee382ac2364cd44e",
+    "bytes": 2843
+  }
+]
