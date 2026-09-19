@@ -32,7 +32,8 @@ GitHub access works and the repository is private. Its default branch contained 
 | M03 | Open | Manuscript says SPSS22; repository SAV header says SPSS32, which identifies save software, not necessarily all analyses. | Confirm actual analysis version; record Python audit separately. |
 | C01 | Corrected in draft | TEMPS-A measures affective temperament, not character or current depressive symptom severity. | Correct terminology throughout. |
 | C02 | Corrected in draft | Cross-sectional groups conflate forensic and inpatient status; not all listed offenses are violent. | Report group associations, not causal/predictive criminality claims. |
-| R01 | Open reference review | Several old references support different populations/constructs from the cited claims. | Use EVIDENCE_MAP; verify metadata and exact claim support. |
+| R01 | Triaged; selective full-text checks open | All 17 original references audited; several address different populations/constructs. | See references/SOURCE_AUDIT.md for per-source reading depth and corrections. |
+| S07 | Confirmed methods error | OUTPUT2 p15 shows multiple significant normality tests; page visually inspected. | Remove all-normality claim; describe distribution checks and rank-based sensitivity honestly. |
 
 `GELİR` is entirely missing. `varyok` can provisionally be described using the manuscript's social-security label, but income must not be inferred from it. Diagnosis is absent only in the 24 controls, consistent with the group structure.
 
@@ -50,3 +51,7 @@ The Python audit passed five saved-output checks for depressive and cyclothymic 
 6. Confirm consent procedures, official ethics committee name/date/number and author affiliations. Source manuscript claims are preserved pending confirmation.
 
 The original dataset and original manuscript remain unchanged. Final submission and final analysis choices remain open.
+
+## Extended audit
+
+See [six detailed reports](PHASES.md) and [claim audit](CLAIM_AUDIT.md). A separate rerun produced aggregate JSON identical to the existing committed results. The Vahip corrigendum remains unread; reference 10 DOI incompleteness was not established and that earlier assertion is withdrawn.

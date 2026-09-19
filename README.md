@@ -8,7 +8,9 @@ Implementation checkpoint dated 19 September 2026. The manuscript is **not ready
 
 - [Master English manuscript](manuscript/MASTER.md): the only active English draft, with explicit author queries.
 - [Reproduced results](analysis/generated/RESULTS.md): aggregate results and sensitivity analyses.
-- [Phase tracker](review/PHASES.md): completed work and remaining gates.
+- [Six detailed phase reports](review/PHASES.md): evidence, corrections, remaining gates and next actions.
+- [Source-by-source audit](references/SOURCE_AUDIT.md): all 17 original references plus five priority additions, with reading limitations.
+- [Claim audit](review/CLAIM_AUDIT.md): manuscript assertions checked against data and sources.
 - [Reference evidence map](references/EVIDENCE_MAP.md): proposed sources and claim-specific uses.
 - [Source manifest](review/source_manifest.json): hashes for the reviewed inputs.
 - Original Turkish DOCX and SAV remain unchanged at repository root.

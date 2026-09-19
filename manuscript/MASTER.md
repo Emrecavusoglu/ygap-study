@@ -36,7 +36,7 @@ Research comparing patients with schizophrenia with healthy controls has identif
 
 This study aimed to compare affective temperament profiles among high-security forensic psychiatric inpatients, psychiatric outpatients and healthy controls. The comparison describes group differences rather than prospectively assessing violence or reoffending.
 
-[REFERENCE QUERY: proposed citations above are drawn from the prior literature review; approve exact claim support and reference metadata during Phase 3.]
+[REFERENCE QUERY: claim-specific source checks are documented in references/SOURCE_AUDIT.md. Approve final selection and resolve essential full-text or instrument queries before submission.]
 
 ## Methods
 
@@ -62,7 +62,7 @@ Affective temperament was measured using the Turkish TEMPS-A. The source manuscr
 
 ### Statistical analysis
 
-Continuous variables are summarized as means and standard deviations; categorical variables are summarized as counts and percentages. The archived SPSS syntax includes distributional assessments, Levene tests, classical and Welch one-way ANOVA, Tukey and Games–Howell comparisons, chi-square tests and Kruskal–Wallis analyses. Classical results were independently reproduced in Python. Welch/Games–Howell results are retained as sensitivity analyses because several variables show unequal variances. Confidence intervals for Games–Howell comparisons use the studentized-range distribution for three groups.
+Continuous variables are summarized as means and standard deviations; categorical variables are summarized as counts and percentages. The archived SPSS syntax includes distributional assessments, Levene tests, classical and Welch one-way ANOVA, Tukey and Games–Howell comparisons, chi-square tests and Kruskal–Wallis analyses. Several group distributions showed departures from normality in the archived tests; the original statement that all continuous variables were normally distributed was not supported. Classical results were independently reproduced in Python. Welch/Games–Howell results are retained as sensitivity analyses because several variables show unequal variances. Confidence intervals for Games–Howell comparisons use the studentized-range distribution for three groups.
 
 An additional exploratory Holm correction was applied across the five forensic–outpatient temperament comparisons to examine sensitivity to multiplicity across dimensions. This was introduced during manuscript review and was not prespecified. Categorical Pearson statistics are reproduced for audit purposes; inference for sparse tables remains provisional. Missing diagnoses in controls were not imputed. All records and original category codes were retained.
 
@@ -80,7 +80,7 @@ Educational distributions differed descriptively: 33 of 66 forensic inpatients (
 
 ### Affective temperament
 
-Classical ANOVA identified between-group differences in depressive, cyclothymic, irritable and anxious temperament scores (all p < .001), with no statistically significant difference for hyperthymic temperament (p = .081). Welch analyses produced the same qualitative pattern. Aggregate estimates and both test families are supplied in Table 2 and the analysis report.
+Classical ANOVA identified between-group differences in depressive, cyclothymic, irritable and anxious temperament scores (all p < .001), with no statistically significant difference for hyperthymic temperament (p = .081). Welch analyses produced the same qualitative pattern. Kruskal–Wallis sensitivity analyses also identified omnibus differences in the four nonhyperthymic dimensions (all p < .001), but not hyperthymic temperament (p = .116); these rank-based findings do not establish the individual pairwise mean contrasts. Aggregate estimates and both test families are supplied in Table 2 and the analysis report.
 
 Forensic inpatients had higher irritable temperament scores than outpatients: mean difference 3.46 points, Tukey p = .002; Games–Howell p = .003, 95% CI 1.06–5.85. Depressive scores were lower in forensic inpatients: mean difference −2.59 points, Tukey p = .020; Games–Howell p = .036, 95% CI −5.03 to −0.15. Differences in cyclothymic, hyperthymic and anxious scores were not statistically significant between these patient groups.
 
@@ -90,7 +90,7 @@ In the exploratory Holm sensitivity across five focal temperament comparisons, t
 
 The principal finding was a higher mean irritable temperament score in forensic psychiatric inpatients than in psychiatric outpatients. This association persisted under unequal-variance comparisons and an exploratory adjustment across five temperament dimensions. Depressive scores were higher in outpatients, although this finding was sensitive to the scope of multiplicity correction. These observations describe group differences and do not establish that temperament preceded or caused offending.
 
-The patient–control differences can be compared with the TEMPS-A study in schizophrenia by Dib et al. (2021), while work in bipolar disorder provides a separate context for temperament and aggression (Fico et al., 2023). These populations and outcomes are not interchangeable. A Turkish study by Çatlı et al. (2026) reported no significant temperament differences between offender and non-offender schizophrenia groups. Its contrasting finding should be considered alongside differences in recruitment, diagnosis and setting rather than omitted from the discussion. [REFERENCE QUERY: complete full-text comparison before expanding these interpretations.]
+The patient–control differences can be compared with the TEMPS-A study in schizophrenia by Dib et al. (2021), while work in bipolar disorder provides a separate context for temperament and aggression (Fico et al., 2023). These populations and outcomes are not interchangeable. A Turkish study by Çatlı et al. (2026) reported no significant temperament differences between offender and non-offender schizophrenia groups. That study recruited forensic and general psychiatric outpatients, whereas the present forensic group comprised inpatients. This difference in setting limits direct comparison and reinforces the need to distinguish forensic status from hospitalization. Dib et al. reported higher hyperthymic scores in controls than in patients, whereas our omnibus hyperthymic comparison was not significant. These mixed findings should be acknowledged rather than described as uniform replication.
 
 Forensic inpatient status incorporates both legal circumstances and hospitalization. Without a general psychiatric inpatient comparison group, associations with these components cannot be separated. Diagnostic composition, symptom burden, substance use, treatment exposure and social circumstances could also contribute to observed differences; the current dataset does not support comprehensive adjustment for these factors.
 
@@ -108,7 +108,7 @@ In this sample, forensic psychiatric inpatients had higher irritable temperament
 
 ## References and declarations
 
-Reference selection and metadata are tracked in [the evidence map](../references/EVIDENCE_MAP.md); this is not yet a submission bibliography. The original bibliography is preserved with the original DOCX and historical English snapshot.
+Reference selection and reading limitations are tracked in [the source audit](../references/SOURCE_AUDIT.md) and [evidence map](../references/EVIDENCE_MAP.md); this is not yet a submission bibliography. The original bibliography is preserved with the original DOCX and historical English snapshot.
 
 [AUTHOR QUERIES: confirm funding, conflicts of interest, contributions, data-availability wording and any required declaration of AI-assisted writing after checking current journal instructions. Do not insert unconfirmed declarations of no funding or no conflicts.]
 

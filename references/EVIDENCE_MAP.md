@@ -1,6 +1,6 @@
 # Reference evidence map
 
-Candidate additions from the earlier literature review, not an automatically approved final bibliography. No new comprehensive PubMed search was performed at this implementation checkpoint. Full-text screening and Zotero metadata verification remain Phase 3 tasks.
+Candidate additions from the earlier literature review, not an automatically approved final bibliography. The targeted source audit now covers all 17 original references and the five priority additions below. Reading depth and remaining full-text checks are documented in [SOURCE_AUDIT.md](SOURCE_AUDIT.md); this is not a systematic review.
 
 | Source | Link | Proposed use | Boundary/status |
 |---|---|---|---|
@@ -21,7 +21,7 @@ Candidate additions from the earlier literature review, not an automatically app
 - Tomaz 2023: treatment/punishment in drug-using offenders does not directly establish impaired self-control in psychosis.
 - Reynolds/McGowan 2021: depressive symptoms and treatment are distinct from depressive temperament. Remove unsupported causal application.
 - Placidi 1998: TEMPS-I psychometrics should not be used alone to establish diagnostic specificity of hyperthymia.
-- Correct Türkcan year mismatch, Hwang/Hawing and Cassano spelling, reference 9 author duplication, broken link in reference 2 and incomplete reference 10 DOI after checking originals.
+- Correct Türkcan year mismatch, Hwang/Hawing and Cassano spelling, reference 9 author duplication, broken link in reference 2 and verify reference 10 against its publisher. The previous assertion that its short DOI was necessarily incomplete is withdrawn.
 
 ## Search contribution template
 

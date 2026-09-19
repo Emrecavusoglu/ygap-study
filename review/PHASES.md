@@ -1,22 +1,29 @@
-# Implementation phases
+# Detailed six-phase review
 
-The six-phase sequence is retained with two adjustments: source-record integrity is a Phase 2 gate, and reproducibility checkpoints are committed before final submission approval.
+Updated 19 September 2026. This is a review checkpoint, not submission approval. The central numerical result reproduces, but factual and analysis gates remain.
 
-| Phase | Status at this checkpoint | Exit condition |
+| Phase | Detailed report | Status |
 |---|---|---|
-| 1 Establish master | Completed for available sources | Root Turkish DOCX matches reviewed upload; both SAVs contain identical values; earlier English source read; user's pasted translation compared; MASTER.md designated |
-| 2 Finalize results | Reproduction completed; author queries open | Confirm codebook and repeated records; decide reporting method and multiplicity; resolve sparse categorical inference |
-| 3 Strengthen literature | Evidence map started from previously reviewed sources | Read closest full texts, verify claim support and metadata, agree additions/removals |
-| 4 Revise manuscript | Working draft created | Resolve bracketed author queries; integrate approved literature and final methods |
-| 5 Submission review | Pending | Current journal instructions, co-author factual review, declarations and approval |
-| 6 GitHub package | Review checkpoint prepared | Commit/push this checkpoint; final release remains dependent on phases 2–5 |
+| 1 Establish master | [Version reconciliation](phases/01_MASTER.md) | Available sources consolidated; provenance queries recorded |
+| 2 Finalize results | [Numerical and statistical audit](phases/02_RESULTS.md) | Reproduced; codebook and source-record gates open |
+| 3 Strengthen literature | [Literature review decisions](phases/03_LITERATURE.md) | All original references triaged; access limitations explicit |
+| 4 Revise manuscript | [Scientific and terminology review](phases/04_MANUSCRIPT.md) | Working master corrected; factual queries remain |
+| 5 Submission review | [Readiness and journal checks](phases/05_SUBMISSION.md) | Not ready; current guide and author approvals outstanding |
+| 6 GitHub package | [Reproducibility and repository record](phases/06_GITHUB.md) | Review package prepared; final release follows scientific resolution |
 
-## Immediate collaboration
+## Supporting reports
 
-Emre/supervisor: answer the questions at the end of FAILURE_DIAGNOSIS.md. Source records stay with the research team; return confirmed code meanings and whether repeated profiles represent distinct participants.
+- [Source-by-source audit: original 17 references and five additions](../references/SOURCE_AUDIT.md)
+- [Claim-to-evidence audit](CLAIM_AUDIT.md)
+- [Failure diagnosis and supervisor questions](FAILURE_DIAGNOSIS.md)
+- [Complete aggregate results](../analysis/generated/RESULTS.md)
+- [Working English master](../manuscript/MASTER.md)
 
-Emre: find additional closely comparable studies and send DOI/PMID plus a sentence on relevance. Record contradictory findings too.
+## Highest-priority author answers
 
-Assistant: revise aggregate tables and Methods after code confirmation; complete claim-by-claim reference screening; then render the submission DOCX and check the journal's current requirements.
+1. Confirm diagnosis codes 1–4, employment code 3 and the meaning of varyok.
+2. Check whether repeated complete profiles represent distinct enrolled participants; do not send personal identifiers to GitHub.
+3. Resolve control recruitment/screening/matching and outpatient offending-history ascertainment.
+4. Confirm administered TEMPS-A form, ethics/consent details and affiliations; provide essential correction/full-text sources if available.
 
-No acceptance or two-day submission guarantee is implied. The unresolved source-record questions determine readiness.
+Further analysis and writing can proceed without buying SPSS. Final sample and interpretation must wait for factual source questions rather than guessed labels.
