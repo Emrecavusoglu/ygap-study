@@ -7,6 +7,7 @@ Working materials for the comparison of high-security forensic psychiatric inpat
 Implementation checkpoint dated 19 September 2026. The manuscript is **not ready for submission**: diagnosis and employment codes, source-record verification and several recruitment details remain unresolved. See [failure diagnosis](review/FAILURE_DIAGNOSIS.md).
 
 - [Master English manuscript](manuscript/MASTER.md): the only active English draft, with explicit author queries.
+- [Fresh cell-by-cell paper comparison](analysis/PAPER_CROSSCHECK.md): all original table values and 15 temperament contrasts; regenerate with `python analysis/crosscheck_paper.py`.
 - [Reproduced results](analysis/generated/RESULTS.md): aggregate results and sensitivity analyses.
 - [Six detailed phase reports](review/PHASES.md): evidence, corrections, remaining gates and next actions.
 - [Source-by-source audit](references/SOURCE_AUDIT.md): all 17 original references plus five priority additions, with reading limitations.
