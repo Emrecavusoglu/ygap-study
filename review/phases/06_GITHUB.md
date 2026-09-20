@@ -27,3 +27,7 @@ Markdown local links are checked before committing. The branch head is re-read b
 ## Release policy
 
 The review branch is a concrete reviewable checkpoint, not a declaration of author approval. Finalize source facts and scientific decisions before merging a submission release. A private repository containing research data should not be made public as part of routine manuscript packaging; any public code release needs a separate data-sharing decision.
+
+## Revision checkpoint — 20 September 2026
+
+The 20 September revision adds author-confirmation provenance, reproducible focal effect sizes, essential source follow-up and submission structure. This is a review-branch checkpoint, not author approval or submission.

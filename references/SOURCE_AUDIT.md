@@ -99,3 +99,7 @@ Supplied citation: Kesebir S, Vahip S, Akdeniz F, Yüncü Z. Bipolar Bozuklukta 
 ## Boundaries and completion criteria
 
 No inaccessible paper is certified fully checked. No exhaustive retraction/correction search across all 22 distinct works was completed; the identified Vahip correction is a specific open item. Full author metadata should be imported from verified records rather than manually reconstructed for the final bibliography. Older studies should be retained for relevant foundational/local contributions, not rejected on age alone. Obtain missing full texts only for claims retained in the final manuscript.
+
+## Follow-up — 20 September 2026
+
+See [essential source follow-up](ESSENTIAL_FOLLOWUP.md) for newly retrieved primary-article details and indexed corrigendum content. Earlier access limitations below/above describe the prior checkpoint; the full corrigendum page is still inaccessible.

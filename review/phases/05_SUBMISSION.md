@@ -32,3 +32,7 @@ The result worth presenting is the irritable-score group difference, with an app
 ## Exit condition
 
 Resolve factual and analysis gates, obtain co-author approval, verify the current journal guide, finalize citation/declaration checks, then render and inspect submission files. No submission or acceptance guarantee is warranted.
+
+## Revision checkpoint — 20 September 2026
+
+Submission structure prepared in [the package plan](../../manuscript/SUBMISSION_STRUCTURE.md). Indexed publisher guidance confirms ≤250 abstract words and single-anonymized review; full guide verification remains incomplete. Author approval and remaining scientific questions still block submission.

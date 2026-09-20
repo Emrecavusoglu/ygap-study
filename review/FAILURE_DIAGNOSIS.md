@@ -55,3 +55,7 @@ The original dataset and original manuscript remain unchanged. Final submission 
 ## Extended audit
 
 See [six detailed reports](PHASES.md) and [claim audit](CLAIM_AUDIT.md). A separate rerun produced aggregate JSON identical to the existing committed results. The Vahip corrigendum remains unread; reference 10 DOI incompleteness was not established and that earlier assertion is withdrawn.
+
+## Status update — 20 September 2026
+
+Use [AUTHOR_CONFIRMATIONS.md](AUTHOR_CONFIRMATIONS.md) for the current status of author questions. Repeated profiles are author-confirmed distinct, controls were hospital employees, screening used records/self-report, and diagnoses/stability were clinician-assessed. Historical open queries for these facts are superseded by that log; remaining coding, sampling, scoring and consent-detail questions are not closed.

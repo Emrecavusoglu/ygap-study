@@ -77,3 +77,7 @@ Emre reports that controls were hospital employees, screening used record review
 ### Completion order
 
 Confirm coding and available variables → assess feasibility of adjusted/subgroup analyses → document methods → compute and check supported estimates → integrate Methods/Results → revise Discussion and Abstract. Writing and data checks proceed together. If a proposed analysis is unsupported, record that decision and improve the manuscript within the actual design.
+
+## Revision checkpoint — 20 September 2026
+
+Author-confirmed methods are integrated into the master, all five focal effect sizes are reported, and the three-group argument is refined. See [confirmation provenance](../AUTHOR_CONFIRMATIONS.md). Adjusted and diagnostic-subgroup analyses remain conditional on verified coding and covariate availability; none has been invented or silently added.

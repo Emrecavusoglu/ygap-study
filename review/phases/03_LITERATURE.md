@@ -28,3 +28,7 @@ Prioritize the administered Turkish questionnaire/scoring instructions, Vahip's 
 ## Exit condition
 
 Approve a focused bibliography, resolve any source essential to a retained claim, import verified metadata into Zotero, and check every in-text citation against the final reference list. Unsupported sentences can be removed rather than delaying submission to obtain irrelevant papers.
+
+## Revision checkpoint — 20 September 2026
+
+Essential follow-up now documents the contrasting Çatlı study, the Turkish validation article and indexed corrigendum: see [source follow-up](../../references/ESSENTIAL_FOLLOWUP.md). Exact administered TEMPS-A form still requires local verification; full bibliography work is not yet complete.

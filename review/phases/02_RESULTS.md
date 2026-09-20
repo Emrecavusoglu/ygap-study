@@ -52,3 +52,7 @@ Exploratory Holm correction across five focal Games–Howell comparisons gives i
 ## Exit condition
 
 Supervisor confirms code meanings, distinct participants and recruitment facts; authors agree the primary/sensitivity analysis hierarchy and sparse-table treatment. Then regenerate the tables and integrate one consistent Methods/Results account. No paid SPSS license is needed for the reproduced analyses.
+
+## Revision checkpoint — 20 September 2026
+
+Effect sizes are now computed from the unchanged SAV: see [report](../../analysis/generated/EFFECT_SIZES.md). Repeated profiles are author-confirmed distinct; this closes the author query, not an independent source-record audit. Diagnosis/employment labels and the final inferential hierarchy remain open.
