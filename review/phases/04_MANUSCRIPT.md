@@ -42,3 +42,38 @@ The master now explicitly acknowledges nonnormal distributions and the rank-base
 ## Exit condition
 
 Resolve bracketed author queries, settle analysis choices, confirm reference support, and have all authors approve the scientific meaning. Produce and visually review the submission DOCX only after these decisions, to avoid polishing contradictory versions.
+
+## Agreed improvement plan — 20 September 2026
+
+Requested by Emre: incorporate the proposed improvements into Phase 4 and check the supporting data alongside each revision. This is a prospective revision task list; additional analyses below have not yet been completed or approved as final manuscript results.
+
+| Revision task | Required data check | Decision rule / deliverable |
+|---|---|---|
+| Focus the three-group question | Trace patient–control and forensic–outpatient contrasts to verified output | Describe the irritable-score pattern; do not imply forensic status is separated from hospitalization |
+| Resolve diagnostic composition | Obtain actual labels for codes 1–4 and confirm denominators | Correct diagnosis counts before interpreting diagnostic differences |
+| Assess a limited adjusted analysis | Check clinically justified covariates, missingness, group overlap, sparse categories and model assumptions | Document a small defensible model before fitting; if unsuitable, retain unadjusted estimates and explain why |
+| Assess a common-diagnosis sensitivity analysis | Confirm shared diagnosis and adequate observations in each patient group | Run only if interpretable; identify as exploratory and report regardless of significance |
+| Improve effect-size reporting | Verify mean differences, SDs, sample sizes and uncertainty method | Add an appropriate standardized effect size with uncertainty alongside raw differences; specify denominator/method |
+| Clarify recruitment and administration | Reconcile author reports with protocol/records; distinguish random selection from random assignment and matching | State how controls were screened, clinical stability judged, and reading assistance provided |
+| Check scoring and reliability locally | Research team reviews actual questionnaire items and scoring key | Item-level responses must not be shared with an LLM; include only team-verified aggregate results if provided |
+| Compare supporting and contrasting literature | Check population, setting, diagnosis, instrument and outcome in each retained source | Explain partial agreement with Dib and contrast with Çatlı; no unsupported first-study claim |
+| Strengthen limitations and conclusion | Identify what was actually collected and what remains unavailable | Preserve limits on causation, prediction and unmeasured confounding; do not manufacture missing information |
+
+### Data integrity rules
+
+- Use only observed study data and explicitly attributed author confirmations. No artificial participants, invented measurements, guessed diagnosis labels, fabricated p-values or simulated observations presented as study data.
+- Do not backfill uncollected symptom, medication, substance-use, matching or recruitment information. Mark it unavailable or pending confirmation.
+- Preserve original files. Any verified correction must have a documented source and reproducible transformation; no silent recoding or deletion.
+- Do not impute missing values in this revision without a separately justified, documented analysis decision; never present imputed values as observed.
+- Exact/Monte Carlo inference or resampling, if methodologically justified, is computation on the observed data, not new participants. Label the procedure and retain its settings/seed.
+- Do not choose covariates, subgroups or reporting methods because they produce significance. Report null and conflicting findings as well.
+- Distinguish the original hypothesis from analyses added during revision. No retrospective claim of preregistration or prespecification.
+- Author reported that item-level questionnaires exist but cannot be shared with an LLM. Verification of those records stays with the research team.
+
+### Incorporate author answers with provenance
+
+Emre reports that controls were hospital employees, screening used record review and self-report, diagnoses were reviewed by the supervisor, clinical stability was judged clinically, and questionnaire administration mixed self-completion with reading assistance. These are author-reported methods, not facts demonstrated by the 13-column SAV. Incorporate with accurate wording; the selection/matching procedure and distribution of assistance across groups still need clarification. Do not treat unanswered questions as resolved.
+
+### Completion order
+
+Confirm coding and available variables → assess feasibility of adjusted/subgroup analyses → document methods → compute and check supported estimates → integrate Methods/Results → revise Discussion and Abstract. Writing and data checks proceed together. If a proposed analysis is unsupported, record that decision and improve the manuscript within the actual design.

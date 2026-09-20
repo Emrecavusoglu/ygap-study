@@ -27,3 +27,7 @@ Updated 19 September 2026. This is a review checkpoint, not submission approval.
 4. Confirm administered TEMPS-A form, ethics/consent details and affiliations; provide essential correction/full-text sources if available.
 
 Further analysis and writing can proceed without buying SPSS. Final sample and interpretation must wait for factual source questions rather than guessed labels.
+
+## Revision improvement plan
+
+Phase 4 now includes a [data-dependent improvement checklist](phases/04_MANUSCRIPT.md#agreed-improvement-plan--20-september-2026): focused three-group interpretation, feasibility checks for adjusted and common-diagnosis analyses, effect sizes, local scoring/reliability checks, and balanced literature comparison. These are planned tasks, not completed analyses. No artificial data or unsupported labels will be introduced; item-level responses remain outside LLM access.
