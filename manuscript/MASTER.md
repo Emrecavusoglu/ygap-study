@@ -2,13 +2,15 @@
 
 **Working master, 20 September 2026. Not approved for submission.** Numerical descriptions below are reproduced from the repository dataset. Author-confirmed methods have been integrated with provenance in [the confirmation log](../review/AUTHOR_CONFIRMATIONS.md). Author queries and final statistical reporting choices remain open; see [issue register](../review/FAILURE_DIAGNOSIS.md). This file supersedes both English working versions for further editing.
 
-Emre Çavuşoğlu¹, Yarkın Ozenli², M. Hilmi Yurtçu²
+Emre Çavuşoğlu¹,², Yarkın Ozenli³, M. Hilmi Yurtçu³
 
 ¹ Faculty of Medicine, University of Health Sciences
 
-² Department of Psychiatry, Faculty of Medicine, University of Health Sciences
+² Tayfur Ata Sökmen Faculty of Medicine, Hatay Mustafa Kemal University, Hatay, Türkiye
 
-[AUTHOR QUERY: confirm preferred author spelling, affiliation at the time of the work, faculty/campus and city/country, corresponding author and contact details. Do not infer affiliation solely from graduation institution.]
+³ Department of Psychiatry, Faculty of Medicine, University of Health Sciences
+
+[AUTHOR QUERY: confirm preferred author spelling, the exact University of Health Sciences faculty/campus and city/country, corresponding author and contact details. Emre’s dual-university affiliation was added at his explicit request.]
 
 ORCID: Emre Çavuşoğlu 0009-0008-5214-3157; Yarkın Ozenli 0000-0002-9637-4837; M. Hilmi Yurtçu 0009-0002-6497-777X.
 

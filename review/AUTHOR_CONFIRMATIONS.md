@@ -16,6 +16,7 @@ Provenance: Emre’s numbered answers in the conversation. These are author repo
 | Hypothesis/sample size | Author reports both preceded analysis. Exact hypothesis and calculation inputs are still required. No retrospective prespecification claims. |
 | Statistical editorial decisions | Cautious association wording, correcting reversed depression result and reporting effect sizes accepted. Final inferential hierarchy remains with supervisor. |
 | Authorship | Emre reports Yarkın originated hypothesis/conducted interviews; M. Hilmi assisted methods; other work by Emre. Final CRediT assignments require author agreement. |
+| Emre’s affiliations | Explicitly requested both University of Health Sciences and Hatay Mustafa Kemal University. Master updated with superscripts 1,2; exact SBÜ faculty/campus wording remains open. |
 | Funding/conflicts | Lead author reports none; all-author declarations not yet obtained. |
 
 ## Still awaiting factual confirmation
