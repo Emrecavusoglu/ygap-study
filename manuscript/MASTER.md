@@ -1,6 +1,6 @@
 # Affective Temperaments in High-Security Forensic Psychiatric Inpatients: A Cross-Sectional Comparison With Psychiatric Outpatients and Healthy Controls
 
-**Working master, 21 September 2026 — paper-based revision, not submission-ready.** At the author's instruction, numerical reporting follows the supervisor-confirmed original manuscript, not the older repository SAV. Internal source discrepancies are flagged in [the full review](../review/FULL_REVIEW_2026-09-21.md). Earlier dataset-derived effect sizes and sensitivity analyses are archived and are not verified findings for this version.
+**Reconciled English draft — 21 September 2026.** Numerical results now use the corrected SAV supplied by the author and independently reproduced ANOVA/Tukey comparisons. Remaining submission checks are listed separately in [the reconciliation report](../review/CURRENT_RECONCILIATION.md).
 
 Emre Çavuşoğlu¹,², Yarkın Ozenli³, M. Hilmi Yurtçu³
 
@@ -10,8 +10,6 @@ Emre Çavuşoğlu¹,², Yarkın Ozenli³, M. Hilmi Yurtçu³
 
 ³ Department of Psychiatry, Faculty of Medicine, University of Health Sciences
 
-[AUTHOR QUERY: confirm preferred author spelling, the exact University of Health Sciences faculty/campus and city/country, corresponding author and contact details. Emre’s dual-university affiliation was added at his explicit request.]
-
 ORCID: Emre Çavuşoğlu 0009-0008-5214-3157; Yarkın Ozenli 0000-0002-9637-4837; M. Hilmi Yurtçu 0009-0002-6497-777X.
 
 ## Abstract
@@ -20,11 +18,9 @@ ORCID: Emre Çavuşoğlu 0009-0008-5214-3157; Yarkın Ozenli 0000-0002-9637-4837
 
 **Methods:** This cross-sectional study included 66 forensic psychiatric inpatients, 25 psychiatric outpatients and 24 healthy controls at Adana City Training and Research Hospital. All participants were men. Patients were clinically stable according to psychiatrist assessment; patients with agitation or impairments preventing questionnaire completion were excluded. Affective temperament was assessed using the 99-item Turkish Temperament Evaluation of Memphis, Pisa, Paris and San Diego Autoquestionnaire (TEMPS-A). Scores were compared using one-way analysis of variance and Tukey post hoc tests.
 
-**Results:** The source manuscript reports higher irritable temperament scores in forensic inpatients than in outpatients (11.57 ± 4.75 versus 8.12 ± 4.00; Tukey p = .002) and lower depressive temperament scores (10.09 ± 4.27 versus 12.66 ± 4.28; p = .020). Forensic–outpatient differences in cyclothymic, hyperthymic and anxious scores were not statistically significant. Both patient groups scored higher than controls on all dimensions except hyperthymic temperament.
+**Results:** Forensic inpatients had higher irritable temperament scores than outpatients (11.58 ± 4.78 versus 8.12 ± 4.00; Tukey p = .002) and lower depressive temperament scores (10.09 ± 4.27 versus 12.68 ± 4.29; p = .020). Forensic–outpatient differences in cyclothymic, hyperthymic and anxious scores were not statistically significant. Both patient groups scored higher than controls on all dimensions except hyperthymic temperament.
 
-**Conclusion:** The reported pattern suggests differences in affective temperament across these clinical groups. Forensic inpatient status combines legal circumstances and hospitalization; this study cannot separate their associations with temperament or establish causation or prediction of offending.
-
-[EDITORIAL NOTE: source-table values are retained. Resolve numerical flags before removing review labels and submitting. No cross-dimension multiplicity correction is claimed in the primary analysis.]
+**Conclusion:** The findings suggest differences in affective temperament across these clinical groups. Forensic inpatient status combines legal circumstances and hospitalization; this study cannot separate their associations with temperament or establish causation or prediction of offending.
 
 **Keywords:** affective temperament; forensic psychiatry; TEMPS-A; schizophrenia; cross-sectional study.
 
@@ -44,47 +40,49 @@ The present study compares high-security forensic psychiatric inpatients with ps
 
 This cross-sectional study was conducted between December 1, 2024, and February 28, 2025, at the High-Security Forensic Psychiatry (YGAP) Unit and Psychiatry Outpatient Clinic of Adana City Training and Research Hospital. The study followed the Declaration of Helsinki and received approval from the hospital ethics committee on November 7, 2024 (approval no. 236). All participants provided their own written informed consent.
 
-[EDITORIAL NOTE: use the committee's exact official name from the approval document in the submission version. No formal consent-capacity instrument or unconfirmed consent procedure is claimed.]
-
 ### Participants and recruitment
 
-The study included 66 forensic psychiatric inpatients, 25 psychiatric outpatients and 24 healthy controls. All participants were men. The forensic group was recruited first; the other groups were selected to have similar age, education and sex characteristics. This was selection for comparability, not random assignment or documented individual matching. Patients were recruited from the forensic unit and from ongoing psychiatric outpatient care. The diagnostic categories used in the study were paranoid schizophrenia, other schizophrenia subtypes and atypical psychosis, and bipolar affective disorder. Diagnoses were based on clinical records and assessment by the supervising psychiatrist.
+The study included 66 forensic psychiatric inpatients, 25 psychiatric outpatients and 24 healthy controls. All participants were men. The forensic group was recruited first; the other groups were selected to have similar age, education and sex characteristics. Patients were recruited from the forensic unit and from ongoing psychiatric outpatient care. The diagnostic categories used in the study were paranoid schizophrenia, other schizophrenia subtypes and atypical psychosis, and bipolar affective disorder. Diagnoses were based on clinical records and assessment by the supervising psychiatrist.
 
 Patients were clinically stable according to psychiatrist assessment and able to participate in the evaluation. Agitated patients were not included. Participants were required to be literate and free of severe hearing or visual impairment or intellectual disability/cognitive impairment preventing comprehension and completion of the questionnaire. Patients who did not provide written consent were ineligible. Standardized clinical symptom scales were not administered.
 
-Approximately 90 patients were present in the forensic unit during the study period, according to the original manuscript. Some could not complete the questionnaire because of intellectual disability or severe psychosis-associated cognitive impairment. Exact exclusion counts by reason are not available in the manuscript and are not reconstructed from the approximate total.
+Approximately 90 patients were present in the forensic unit during the study period. Some could not complete the questionnaire because of intellectual disability or severe psychosis-associated cognitive impairment. Exact numbers excluded for each reason were unavailable.
 
-Forensic inpatients had court-related admissions associated with offenses including homicide, assault, theft and property damage. Offense histories were assessed using records and participant questioning, as clarified by the research team. Both violent and nonviolent offenses were represented; forensic group membership is not a direct measure of violence severity. Controls were recruited from hospital employees, including cleaning and support staff, and were screened through record review and self-report. All individuals approached reportedly volunteered.
+Forensic inpatients had court-related admissions associated with offenses including homicide, assault, theft and property damage. Offense histories were assessed using records and participant questioning, according to the study procedures. Both violent and nonviolent offenses were represented; forensic group membership is not a direct measure of violence severity. Controls were recruited from hospital employees, including cleaning and support staff, and were screened through record review and self-report. All individuals approached agreed to participate.
 
 ### Measures
 
-A semi-structured form recorded sociodemographic information. Patient variables included age, education, marital status, employment, social security coverage and diagnosis. Employment referred to the pre-admission period for forensic inpatients; the author clarified that employment assessment concerned stable periods. Educational similarity was sought during recruitment, but this did not establish identical educational distributions.
+A semi-structured form recorded sociodemographic information. Patient variables included age, education, marital status, employment, social security coverage and diagnosis. Employment referred to the pre-admission period for forensic inpatients; employment assessment concerned clinically stable periods. Educational similarity was sought during recruitment, but this did not establish identical educational distributions.
 
-The 99-item Turkish TEMPS-A was used to measure affective temperament. Its subscales contain 18 depressive, 19 cyclothymic, 20 hyperthymic, 18 irritable and 24 anxious items. Participants respond according to their usual characteristics over much of their lives. The Turkish psychometric source is Vahip et al. (2005). The form supplied by the author matches these item counts and provides a scoring key. Although dominant-temperament cutoffs exist, this study compared continuous subscale scores and did not classify participants by dominant temperament.
+The 99-item Turkish TEMPS-A was used to measure affective temperament. Its subscales contain 18 depressive, 19 cyclothymic, 20 hyperthymic, 18 irritable and 24 anxious items. Participants respond according to their usual characteristics over much of their lives. The Turkish psychometric source is Vahip et al. (2005). Although dominant-temperament cutoffs exist, this study compared continuous subscale scores and did not classify participants by dominant temperament.
 
-Emre Çavuşoğlu administered the questionnaire in the forensic unit. Some participants completed it independently and others received reading assistance. The author reports no missing or multiple item responses. Individual item responses remain with the research team and were not provided for the computational review; no sample-specific internal-consistency estimate is claimed here.
+Emre Çavuşoğlu administered the questionnaire in the forensic unit. Some participants completed it independently and others received reading assistance. No missing or multiple item responses were reported. Sample-specific internal consistency was not estimated.
 
 ### Statistical analysis
 
-The supervising author confirmed that analyses were conducted using SPSS version 22.0. Continuous variables were summarized as means and standard deviations, and categorical variables as counts and percentages. Distributional assessment used the Kolmogorov–Smirnov test. One-way analysis of variance was the primary comparison of continuous variables, followed by Tukey post hoc comparisons. Pearson's chi-square test was used for categorical variables. Statistical significance was assessed at p < .05.
+The original analyses were conducted using SPSS version 22.0. During manuscript revision, descriptive statistics and the primary tests were independently reproduced from the corrected dataset in Python. Continuous variables are summarized as means and standard deviations; categorical variables as counts and percentages. Distributional assessment in the original analysis used the Kolmogorov–Smirnov test. One-way analysis of variance was used for continuous group comparisons, followed by Tukey post hoc tests. Statistical significance was assessed at p < .05.
 
-No Monte Carlo test was performed. Tukey adjustment addresses pairwise group comparisons within each temperament dimension; no additional correction across the five dimensions is claimed for the supervisor-confirmed primary analysis. Earlier exploratory analyses of a different SAV version are excluded from the current results. The original blanket statement that all distributions were normal is not retained without the matching output. Sparse-cell assumptions for categorical inference remain a reporting limitation pending reconciliation of the source tables.
+Tukey-adjusted 95% confidence intervals for forensic–outpatient raw-score differences were calculated during revision using the same classical ANOVA framework. Tukey adjustment addresses the three pairwise group comparisons within each dimension; no additional adjustment across the five temperament dimensions was applied. Consequently, findings across dimensions are interpreted as exploratory.
+
+Pearson's chi-square test was used for categorical comparisons. Education and marital-status tables contained sparse expected cells; these approximate p-values are interpreted cautiously. No Monte Carlo test was performed. No records were excluded or imputed during numerical reconciliation. The control group's absent diagnosis entries were not treated as missing patient diagnoses.
 
 ## Results
 
 ### Participant characteristics
 
-The study comprised 115 participants. The source paper reports mean ages of 39.31 years in forensic inpatients, 39.72 in outpatients and 37.00 in controls, with no statistically significant group difference (F = 0.626, p = .537). Sociodemographic counts and percentages are transcribed in Table 1. The original paper reports differences in education, marital status, employment and social security coverage, but the employment table is incomplete and its inferential result should not be finalized before reconciliation.
+The sample comprised 66 forensic psychiatric inpatients, 25 psychiatric outpatients and 24 healthy controls. Mean ages were 39.32 ± 10.68, 39.72 ± 8.32 and 37.00 ± 7.27 years, respectively (F[2,112] = 0.626, p = .537).
 
-[NUMERICAL REVIEW: outpatient age SD differs between the text and Table 1. Source diagnosis percentages are preserved separately in Table 1B but do not reconcile with the stated group sizes or the later combined frequency screenshot. No clinical-code frequencies from the older SAV have been substituted.]
+Participant characteristics are presented in Table 1. The education and marital-status distributions differed on Pearson tests (χ²[6] = 13.720, p = .033; χ²[4] = 30.889, p < .001), although sparse expected cells limit these approximations. Employment differed across groups (χ²[2] = 15.238, p < .001): 41 forensic inpatients (62.1%), 13 outpatients (52.0%) and all 24 controls were employed in the assessed period. The remaining 25 forensic inpatients and 12 outpatients were not employed. Social security coverage was reported for 35 forensic inpatients (53.0%), 15 outpatients (60.0%) and all controls (χ²[2] = 17.188, p < .001). These are omnibus group tests and do not establish specific pairwise demographic differences.
+
+In forensic inpatients, 28 (42.4%) had paranoid schizophrenia, 29 (43.9%) had other schizophrenia subtypes or atypical psychosis, and 9 (13.6%) had bipolar affective disorder. The corresponding outpatient counts were 9 (36.0%), 13 (52.0%) and 3 (12.0%) (Table 2).
 
 ### Affective temperament
 
-The source paper reports omnibus differences in depressive, cyclothymic, irritable and anxious temperament scores (p < .001 as displayed to three decimal places in the original output), but not hyperthymic temperament. Means and SDs from the source Table 2 are retained in the working table.
+There were omnibus group differences in depressive (F[2,112] = 32.126), cyclothymic (F[2,112] = 16.418), irritable (F[2,112] = 44.248) and anxious temperament (F[2,112] = 24.966), all p < .001. The hyperthymic comparison was not statistically significant (F[2,112] = 2.568, p = .081). Subscale means and standard deviations are presented in Table 3.
 
-Forensic inpatients had higher irritable temperament scores than outpatients (11.57 ± 4.75 versus 8.12 ± 4.00; Tukey p = .002). Depressive temperament scores were higher in outpatients (12.66 ± 4.28 versus 10.09 ± 4.27; p = .020). No statistically significant forensic–outpatient differences were reported for cyclothymic, hyperthymic or anxious temperament. Both patient groups were reported to score higher than controls in the four nonhyperthymic dimensions.
+Forensic inpatients had higher irritable scores than outpatients (11.58 ± 4.78 versus 8.12 ± 4.00): mean difference 3.46 points, Tukey 95% CI 1.13 to 5.78, p = .002. Depressive scores were lower in forensic inpatients (10.09 ± 4.27 versus 12.68 ± 4.29): mean difference −2.59 points, 95% CI −4.85 to −0.33, p = .020. There were no statistically significant forensic–outpatient differences in cyclothymic (p = 1.000), hyperthymic (p = .096) or anxious scores (p = .121). Table 4 reports all five focal differences and their confidence intervals.
 
-The source's reported SE values (0.951 and 0.978) are not described as effect sizes. Standardized effects and confidence intervals generated from the older SAV are not used in this manuscript version. A nonsignificant hyperthymic comparison does not establish equivalence.
+Both patient groups scored higher than controls in depressive, cyclothymic, irritable and anxious dimensions (each Tukey p < .001). No hyperthymic pairwise contrast was significant. Absence of a significant difference does not establish equivalence.
 
 ## Discussion
 
@@ -96,19 +94,17 @@ The closest Turkish comparison provides important contrary evidence. Çatlı et 
 
 The control group helps contextualize the forensic–outpatient comparison, but it does not isolate an independent association with offending. Forensic inpatient status combines legal circumstances and hospitalization, and there was no general psychiatric inpatient comparator. Previous offending and substance misuse are established contextual risk factors in longitudinal research (Lagerberg et al., 2025); their possible contribution cannot be assessed from the reported temperament comparisons alone. No adjusted model is presented.
 
-Depressive temperament must be distinguished from a current depressive episode or treatment-emergent depressive symptoms. The original Discussion reversed the observed group direction. The higher outpatient score cannot be explained by forensic confinement, and the study did not test a medication-induced mechanism. Similarly, the hyperthymic result cannot be attributed to bipolar diagnostic proportions while those proportions remain internally inconsistent.
+Depressive temperament must be distinguished from a current depressive episode or treatment-emergent depressive symptoms. The higher outpatient score cannot be explained by forensic confinement, and the study did not test a medication-induced mechanism. Only 12 patients had bipolar affective disorder. This limits diagnosis-specific interpretation; the nonsignificant hyperthymic comparison cannot establish the absence of a difference within that diagnostic subgroup.
 
 ### Limitations
 
 The cross-sectional design prevents conclusions about temporal order, causation or prediction. The single-center, all-male sample limits generalizability. Patients unable to complete the questionnaire and agitated patients were excluded, so findings do not represent the full forensic inpatient population. Groups were unequal in size, and controls recruited from hospital employees may differ from patients in employment and other social characteristics. Selection for similar age and education does not eliminate confounding.
 
-Clinical stability was judged by a psychiatrist without standardized symptom ratings. Retrospective self-description and mixed independent/assisted questionnaire completion may affect responses. Internal consistency was not estimated from item responses in this review. Multiple temperament dimensions increase the chance of false-positive findings beyond the within-dimension Tukey adjustment. Sparse cells may limit categorical chi-square inference. The study did not evaluate future violence, offense severity or recidivism as outcomes.
-
-[EDITORIAL NOTE: numerical source conflicts are review issues requiring resolution, not findings to conceal in the limitations of a submitted paper.]
+Clinical stability was judged by a psychiatrist without standardized symptom ratings. Retrospective self-description and mixed independent/assisted questionnaire completion may affect responses. Sample-specific internal consistency was not estimated. Multiple temperament dimensions increase the chance of false-positive findings beyond the within-dimension Tukey adjustment. Sparse cells may limit categorical chi-square inference. The study did not evaluate future violence, offense severity or recidivism as outcomes.
 
 ## Conclusion
 
-The source manuscript reports higher irritable and lower depressive temperament scores in high-security forensic psychiatric inpatients than in psychiatric outpatients. These differences describe the sampled groups and warrant further investigation with better control of clinical and treatment-setting differences. They do not establish temperament as a cause, independent risk factor or predictor of offending.
+High-security forensic psychiatric inpatients had higher irritable and lower depressive temperament scores than psychiatric outpatients. These differences describe the sampled groups and warrant further investigation with better control of clinical and treatment-setting differences. They do not establish temperament as a cause, independent risk factor or predictor of offending.
 
 ## Declarations
 
@@ -122,8 +118,13 @@ The source manuscript reports higher irritable and lower depressive temperament 
 
 ## References
 
-The six references supporting this focused draft are listed in [the checked bibliography](../references/RETAINED_REFERENCES.md). Detailed retention/removal decisions for all original references are in [the full review](../review/FULL_REVIEW_2026-09-21.md) and the historical source audit. Bibliographic metadata verification is distinguished from full-text verification.
+1. Vahip S, Kesebir S, Alkan M, Yazici O, Akiskal KK, Akiskal HS. (2005). Affective temperaments in clinically-well subjects in Turkey: initial psychometric data on the TEMPS-A. *Journal of Affective Disorders, 85*(1–2), 113–125. https://doi.org/10.1016/j.jad.2003.10.011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15780682/).
+2. Dib JE, Nehme I, Haddad C, Azar J, Hallit S, Obeid S. (2021). Affective temperaments of Lebanese patients with schizophrenia: comparison by gender and severity of psychosis. *BMC Research Notes, 14*, 430. https://doi.org/10.1186/s13104-021-05854-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34823586/).
+3. Fico G, Janiri D, Pinna M, Sagué-Vilavella M, Gimenez Palomo A, Oliva V, De Prisco M, Cortez PG, Anmella G, Gonda X, Sani G, Tondo L, Vieta E, Murru A. (2023). Affective temperaments mediate aggressive dimensions in bipolar disorders: A cluster analysis from a large, cross-sectional, international study. *Journal of Affective Disorders, 323*, 327–335. https://doi.org/10.1016/j.jad.2022.11.084. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36470551/).
+4. Whiting D, Gulati G, Geddes JR, Fazel S. (2022). Association of Schizophrenia Spectrum Disorders and Violence Perpetration in Adults and Adolescents From 15 Countries: A Systematic Review and Meta-analysis. *JAMA Psychiatry, 79*(2), 120–132. https://doi.org/10.1001/jamapsychiatry.2021.3721. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34935869/).
+5. Lagerberg T, Lambe S, Paulino A, Yu R, Fazel S. (2025). Systematic review of risk factors for violence in psychosis: 10-year update. *The British Journal of Psychiatry, 226*(2), 100–107. https://doi.org/10.1192/bjp.2024.120. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40091674/).
+6. Çatlı B, Çakmak IB, Gürkan Ş, Tatlıdil Yaylacı E, Kaya H, Göka E. (2026). Temperament and insight in offender and non-offender patients with schizophrenia in Türkiye. *Psychiatry and Clinical Psychopharmacology, 36*(3), 301–311. https://doi.org/10.5152/pcp.2026.251292. [Publisher PDF](https://www.psychiatry-psychopharmacology.com/index.php/pub/article/download/3566/2255).
 
 ## Tables
 
-[Working source-based tables](TABLES.md). Marked conflicts must be resolved before submission.
+[Reconciled tables](TABLES.md): participant characteristics, diagnostic distribution, temperament scores and focal confidence intervals.

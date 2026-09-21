@@ -1,3 +1,5 @@
+> **Latest: corrected dataset reconciled; English draft rewritten.** [Current status](review/CURRENT_RECONCILIATION.md) supersedes earlier numerical blockers below. The current master/tables use the newly supplied file; no unresolved diagnosis or employment count remains.
+
 > **Latest review: 21 September 2026.** [Full article/reference review](review/FULL_REVIEW_2026-09-21.md) · [Current paper-based master](manuscript/MASTER.md). Original manuscript values take priority by author instruction; old SAV analyses are historical. The paper has unresolved internal numerical conflicts and is not submission-ready.
 
 # YGAP affective temperament study

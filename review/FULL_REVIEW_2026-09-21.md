@@ -1,3 +1,5 @@
+> **Latest: corrected dataset reconciled; English draft rewritten.** [Current status](CURRENT_RECONCILIATION.md) supersedes earlier numerical blockers below. The current master/tables use the newly supplied file; no unresolved diagnosis or employment count remains.
+
 # Full manuscript and reference review — 21 September 2026
 
 ## Governing decision
