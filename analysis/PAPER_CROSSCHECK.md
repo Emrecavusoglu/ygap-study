@@ -1,3 +1,5 @@
+> **Historical dataset audit — status updated 21 September 2026.** These computations describe the older SAV only. The author has selected the supervisor-confirmed paper as the numerical source; these outputs do not certify its results and must not be imported into the active manuscript until versions are reconciled.
+
 # Fresh SAV-to-manuscript cross-check
 
 Original Turkish DOCX tables were extracted directly from Word XML and compared with a fresh read of the repository SAV. No data were changed. Group/ordinary demographic labels follow the manuscript provisionally; diagnosis codes are not assigned clinical labels.

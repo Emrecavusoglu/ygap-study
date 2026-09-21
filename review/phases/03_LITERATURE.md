@@ -1,3 +1,5 @@
+> **Status superseded on 21 September 2026:** see [current full review](../FULL_REVIEW_2026-09-21.md). The original paper is now the author-selected numerical source. Older SAV analyses are historical and not verified results for that paper. Resolved methods questions in the current review must not be re-asked from historical lists below.
+
 # Phase 3 — Cross-check the literature
 
 Status: all 17 original references triaged individually; five proposed additions and the foundational validation source mapped to claims. Access depth varies and is stated explicitly.

@@ -1,3 +1,5 @@
+> **Historical dataset audit — status updated 21 September 2026.** These computations describe the older SAV only. The author has selected the supervisor-confirmed paper as the numerical source; these outputs do not certify its results and must not be imported into the active manuscript until versions are reconciled.
+
 # Focal effect sizes — 20 September 2026
 
 Exploratory addition during review. All 91 patient records retained. No imputation, recoding, synthetic participants, or item-level access. Positive values mean higher forensic inpatient scores.

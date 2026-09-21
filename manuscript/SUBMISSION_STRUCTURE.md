@@ -4,10 +4,10 @@ Working preparation, not a completed submission package. Primary source: [IJLP G
 
 ## Prepared structure
 
-1. Title page: title; agreed author names/order; institutional affiliations at time of work; ORCIDs; corresponding-author details. Emre is listed with both University of Health Sciences and Hatay Mustafa Kemal University; the precise SBÜ faculty/campus wording remains to be finalized. Single-anonymized review does not itself require concealing authors from reviewers.
+1. Title page: title; agreed author names/order; institutional affiliations at time of work; ORCIDs; corresponding-author details. Affiliations remain provisional. Single-anonymized review does not itself require concealing authors from reviewers.
 2. Main text: Abstract (at most 250 words), keywords, Introduction, Methods, Results, Discussion including limitations, Conclusion.
 3. References: one verified bibliography, with each citation matched to the claim. Keep foundational validation references alongside relevant recent evidence.
-4. Tables: participant characteristics and five temperament scores, plus explicitly labeled supplementary effect-size table. Replace unresolved coded categories only after confirmation.
+4. Tables: participant characteristics and five temperament scores, with internal source conflicts resolved. Earlier dataset-derived effect sizes are archived, not submission supplements for the current version. Replace unresolved coded categories only after confirmation.
 5. Declarations: ethics/consent, funding, interests, contributions, data availability and transparent AI assistance. Final wording requires author review.
 6. Cover letter: actual contribution, cross-sectional limitations, fit for journal, and author-approved originality/submission declarations. Do not claim all approvals already obtained.
 7. Supporting reproducibility: aggregate analysis reports and scripts. No new patient-level exports or questionnaire records in this package.
@@ -18,7 +18,7 @@ Working preparation, not a completed submission package. Primary source: [IJLP G
 - Yarkın Ozenli: conceptualization, clinical interviews/assessment; confirm supervision and review/editing roles.
 - M. Hilmi Yurtçu: methodology; confirm review/editing contribution.
 
-At Emre’s explicit request, list both affiliations: Faculty of Medicine, University of Health Sciences; and Tayfur Ata Sökmen Faculty of Medicine, Hatay Mustafa Kemal University, Hatay, Türkiye. Emre’s superscripts are 1 and 2; the co-authors’ existing psychiatry affiliation is renumbered 3. The exact SBÜ faculty/campus wording remains to be finalized.
+Affiliation depends on the institution where work was performed, not merely graduation institution. Record Emre’s reported SBÜ training during the study and confirm the correct formal affiliation with the team.
 
 ## Draft AI-use description — factual working wording
 
@@ -26,7 +26,7 @@ During manuscript preparation and review, ChatGPT was used to assist with Turkis
 
 ## Pending gates
 
-- Supervisor’s outstanding factual answers and final inferential plan.
+- Reconcile numerical conflicts within the author-endorsed paper; ANOVA/Tukey and SPSS 22 are now supervisor-confirmed.
 - Local scoring verification, without LLM access to item responses.
 - Corrected categorical table labels and sparse-table inference.
 - Final references and fully checked journal guide/upload requirements.

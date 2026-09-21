@@ -1,3 +1,5 @@
+> **21 September update:** [Current retained bibliography](RETAINED_REFERENCES.md) and [all-section review](../review/FULL_REVIEW_2026-09-21.md) supersede earlier open-item status where stated. This file preserves the detailed original 17-reference audit and its reading limits.
+
 # Source-by-source citation audit
 
 Audit date: 19 September 2026. Scope: all 17 references in the supplied manuscript, plus five priority additions. Vahip is both an original reference and a foundational source to retain. This is a claim-support audit, not a systematic review or independent replication of the cited studies.

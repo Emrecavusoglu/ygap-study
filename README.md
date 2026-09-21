@@ -1,3 +1,5 @@
+> **Latest review: 21 September 2026.** [Full article/reference review](review/FULL_REVIEW_2026-09-21.md) · [Current paper-based master](manuscript/MASTER.md). Original manuscript values take priority by author instruction; old SAV analyses are historical. The paper has unresolved internal numerical conflicts and is not submission-ready.
+
 # YGAP affective temperament study
 
 Working materials for the comparison of high-security forensic psychiatric inpatients, psychiatric outpatients and healthy controls. Target journal: International Journal of Law and Psychiatry.

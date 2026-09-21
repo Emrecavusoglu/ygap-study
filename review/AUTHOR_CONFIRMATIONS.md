@@ -1,3 +1,5 @@
+> **Status superseded on 21 September 2026:** see [current full review](FULL_REVIEW_2026-09-21.md). The original paper is now the author-selected numerical source. Older SAV analyses are historical and not verified results for that paper. Resolved methods questions in the current review must not be re-asked from historical lists below.
+
 # Author confirmations and remaining decisions — 20 September 2026
 
 Provenance: Emre’s numbered answers in the conversation. These are author reports, not independently inspected recruitment, consent or clinical records. The original numbered question list is not fully reproduced in the available conversation; ambiguous short answers are not expanded into facts. H-marked questions remain with Prof. Yarkın.
