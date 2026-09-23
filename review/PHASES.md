@@ -23,4 +23,4 @@ This overview supersedes older unresolved-question lists. The corrected-data rec
 
 Resolved diagnosis coding, employment counts, clinical stability, recruitment and administered-form questions must not be reopened from historical reports. No data were fabricated or changed in this pass. Original SPSS 22 ANOVA/Tukey and Pearson chi-square reporting remains, with sparse-cell and multiplicity limitations stated. No Monte Carlo analysis was added.
 
-No SAV file is added in this update. An older SAV file already exists in the private repository and its history; this checkpoint does not remove it or make the repository public.
+SAV datasets were removed from the current main and review branch trees on 23 September 2026. An ignore rule excludes SAV files from normal future git additions. Older commits still contain the original dataset; no history rewrite or complete historical purge is claimed. The repository remains private.
