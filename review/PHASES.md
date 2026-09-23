@@ -1,41 +1,26 @@
-> **Latest: corrected dataset reconciled; English draft rewritten.** [Current status](CURRENT_RECONCILIATION.md) supersedes earlier numerical blockers below. The current master/tables use the newly supplied file; no unresolved diagnosis or employment count remains.
+# Six-phase status — 23 September 2026
 
-> **Status superseded on 21 September 2026:** see [current full review](FULL_REVIEW_2026-09-21.md). The original paper is now the author-selected numerical source. Older SAV analyses are historical and not verified results for that paper. Resolved methods questions in the current review must not be re-asked from historical lists below.
+This overview supersedes older unresolved-question lists. The corrected-data reconciliation remains the numerical source; no new analysis was performed in this editorial pass.
 
-# Detailed six-phase review
-
-Updated 20 September 2026. This is a review checkpoint, not submission approval. The central numerical result reproduces, but factual and analysis gates remain.
-
-| Phase | Detailed report | Status |
+| Phase | Current status | Remaining work |
 |---|---|---|
-| 1 Establish master | [Version reconciliation](phases/01_MASTER.md) | Available sources consolidated; provenance queries recorded |
-| 2 Finalize results | [Numerical and statistical audit](phases/02_RESULTS.md) | Reproduced; effect sizes added; codebook and analysis decisions open |
-| 3 Strengthen literature | [Literature review decisions](phases/03_LITERATURE.md) | All original references triaged; access limitations explicit |
-| 4 Revise manuscript | [Scientific and terminology review](phases/04_MANUSCRIPT.md) | Confirmed methods and effect sizes integrated; supervisor queries remain |
-| 5 Submission review | [Readiness and journal checks](phases/05_SUBMISSION.md) | Structure prepared; guide partly verified; scientific/author gates open |
-| 6 GitHub package | [Reproducibility and repository record](phases/06_GITHUB.md) | Review package prepared; final release follows scientific resolution |
+| 1. Establish master | Current English master synchronized with reviewed Word draft | Incorporate final author corrections |
+| 2. Finalize results | Corrected data reconciled; tables and Results agree | Authors approve reporting and limitations |
+| 3. Strengthen literature | Six retained sources checked at documented access levels | Vahip complete full text remains unavailable |
+| 4. Revise manuscript | Terminology, comparison context and cautious interpretation revised | Final co-author read |
+| 5. Submission review | Active; Word manuscript, tables, title page, highlights and review materials prepared | Exact committee name, co-author details, corresponding author, declarations and final journal/portal checks |
+| 6. GitHub package | Review checkpoint synchronized | Approved release after author approval; no submission performed |
 
-## Supporting reports
+## Current documents
 
-- [Source-by-source audit: original 17 references and five additions](../references/SOURCE_AUDIT.md)
-- [Claim-to-evidence audit](CLAIM_AUDIT.md)
-- [Failure diagnosis and supervisor questions](FAILURE_DIAGNOSIS.md)
-- [Complete aggregate results](../analysis/generated/RESULTS.md)
-- [Working English master](../manuscript/MASTER.md)
+- [Working manuscript](../manuscript/MASTER.md)
+- [Tables](../manuscript/TABLES.md)
+- [Title page](../manuscript/TITLE_PAGE.md)
+- [Highlights](../manuscript/HIGHLIGHTS.md)
+- [Author review checklist](AUTHOR_REVIEW_CHECKLIST.md)
+- [Source and submission review](SOURCE_AND_SUBMISSION_REVIEW_2026-09-23.md)
+- [Corrected-data reconciliation](CURRENT_RECONCILIATION.md)
 
-## Highest-priority author answers
+Resolved diagnosis coding, employment counts, clinical stability, recruitment and administered-form questions must not be reopened from historical reports. No data were fabricated or changed in this pass. Original SPSS 22 ANOVA/Tukey and Pearson chi-square reporting remains, with sparse-cell and multiplicity limitations stated. No Monte Carlo analysis was added.
 
-1. Confirm diagnosis codes 1–4, employment code 3 and the meaning of varyok.
-2. Repeated profiles are now author-confirmed distinct; retain all records. No identifying register was requested.
-3. Resolve control recruitment/screening/matching and outpatient offending-history ascertainment.
-4. Confirm administered TEMPS-A form, ethics/consent details and affiliations; provide essential correction/full-text sources if available.
-
-Further analysis and writing can proceed without buying SPSS. Final sample and interpretation must wait for factual source questions rather than guessed labels.
-
-## Revision improvement plan
-
-Phase 4 now includes a [data-dependent improvement checklist](phases/04_MANUSCRIPT.md#agreed-improvement-plan--20-september-2026): focused three-group interpretation, feasibility checks for adjusted and common-diagnosis analyses, effect sizes, local scoring/reliability checks, and balanced literature comparison. These are planned tasks, not completed analyses. No artificial data or unsupported labels will be introduced; item-level responses remain outside LLM access.
-
-## Completed while awaiting the supervisor
-
-Confirmed methods integrated; focal effect sizes and uncertainty calculated; essential source follow-up documented; three-group interpretation refined; submission structure prepared. See [confirmation log](AUTHOR_CONFIRMATIONS.md), [effect sizes](../analysis/generated/EFFECT_SIZES.md), [source follow-up](../references/ESSENTIAL_FOLLOWUP.md) and [submission structure](../manuscript/SUBMISSION_STRUCTURE.md). Full journal compliance and final scientific approval remain outstanding.
+No SAV file is added in this update. An older SAV file already exists in the private repository and its history; this checkpoint does not remove it or make the repository public.

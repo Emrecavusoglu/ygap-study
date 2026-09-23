@@ -1,3 +1,5 @@
+> **Current status — 23 September 2026:** [Phase overview](../PHASES.md), [author actions](../AUTHOR_REVIEW_CHECKLIST.md) and [source/journal review](../SOURCE_AND_SUBMISSION_REVIEW_2026-09-23.md) supersede the historical status below. Resolved numerical and methods queries are not outstanding. This remains an author-review checkpoint, not submission approval.
+
 > **Latest: corrected dataset reconciled; English draft rewritten.** [Current status](../CURRENT_RECONCILIATION.md) supersedes earlier numerical blockers below. The current master/tables use the newly supplied file; no unresolved diagnosis or employment count remains.
 
 > **Status superseded on 21 September 2026:** see [current full review](../FULL_REVIEW_2026-09-21.md). The original paper is now the author-selected numerical source. Older SAV analyses are historical and not verified results for that paper. Resolved methods questions in the current review must not be re-asked from historical lists below.
