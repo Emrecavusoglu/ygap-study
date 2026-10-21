@@ -1,0 +1,103 @@
+{
+  "source_sha256": "46527ae60ab4a1eb6e99ed0956aad63a81e42a3a9a1a1422ee382ac2364cd44e",
+  "seed": 20260920,
+  "bootstrap_replicates": 20000,
+  "direction": "Forensic minus outpatient",
+  "versions": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pyreadstat": "1.3.6"
+  },
+  "contrasts": [
+    {
+      "variable": "depres",
+      "label": "Depressive",
+      "n_forensic": 66,
+      "n_outpatient": 25,
+      "hedges_g": -0.6000789420427352,
+      "bootstrap_percentile_ci95": [
+        -1.0913017195980554,
+        -0.15645150322608947
+      ],
+      "raw_difference": -2.589090909090908,
+      "games_howell_ci95": [
+        -5.031293233254133,
+        -0.14688858492768286
+      ],
+      "games_howell_p": 0.03556520950775799,
+      "holm_five_p": 0.14226083803103196
+    },
+    {
+      "variable": "siklotimi",
+      "label": "Cyclothymic",
+      "n_forensic": 66,
+      "n_outpatient": 25,
+      "hedges_g": -0.0013772041104200582,
+      "bootstrap_percentile_ci95": [
+        -0.4418861199916174,
+        0.4404987415115687
+      ],
+      "raw_difference": -0.007272727272725987,
+      "games_howell_ci95": [
+        -2.885452521716348,
+        2.870907067170896
+      ],
+      "games_howell_p": 0.9999793656907686,
+      "holm_five_p": 0.9999793656907686
+    },
+    {
+      "variable": "hipertimi",
+      "label": "Hyperthymic",
+      "n_forensic": 66,
+      "n_outpatient": 25,
+      "hedges_g": 0.4567551975850924,
+      "bootstrap_percentile_ci95": [
+        -0.01335943076063121,
+        0.9506370975355275
+      ],
+      "raw_difference": 2.2751515151515154,
+      "games_howell_ci95": [
+        -0.7192387926131087,
+        5.269541822916139
+      ],
+      "games_howell_p": 0.16664879580693748,
+      "holm_five_p": 0.4931956571742836
+    },
+    {
+      "variable": "irritable",
+      "label": "Irritable",
+      "n_forensic": 66,
+      "n_outpatient": 25,
+      "hedges_g": 0.7481806225184113,
+      "bootstrap_percentile_ci95": [
+        0.31973836702255415,
+        1.260873845966715
+      ],
+      "raw_difference": 3.455757575757577,
+      "games_howell_ci95": [
+        1.058532527079139,
+        5.852982624436015
+      ],
+      "games_howell_p": 0.002923845349958931,
+      "holm_five_p": 0.014619226749794656
+    },
+    {
+      "variable": "anksiy\u00f6z",
+      "label": "Anxious",
+      "n_forensic": 66,
+      "n_outpatient": 25,
+      "hedges_g": -0.44373759795887097,
+      "bootstrap_percentile_ci95": [
+        -0.9461802684063602,
+        0.01822836278543798
+      ],
+      "raw_difference": -2.198787878787879,
+      "games_howell_ci95": [
+        -5.078667019711608,
+        0.6810912621358489
+      ],
+      "games_howell_p": 0.16439855239142787,
+      "holm_five_p": 0.4931956571742836
+    }
+  ]
+}
