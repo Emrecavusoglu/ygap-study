@@ -8,6 +8,8 @@ Final language revision for author review, 21 October 2026. The English manuscri
 - [Study tables](manuscript/TABLES.md)
 - [Matching Word manuscript](manuscript/01_IJLP_Manuscript.docx)
 - [Matching Word tables](manuscript/02_IJLP_Tables.docx)
+- [Manuscript PDF](manuscript/01_IJLP_Manuscript.pdf)
+- [Tables PDF](manuscript/02_IJLP_Tables.pdf)
 - [Final revision checks and remaining author decisions](review/FINAL_LANGUAGE_REVIEW_2026-10-21.md)
 - [Numerical verification and missing-variable inventory](review/YGAP_Data_Verification_and_Missing_Variables.md)
 - [Verified aggregate results](analysis/generated/current_results.json)
