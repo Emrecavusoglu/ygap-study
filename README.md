@@ -1,36 +1,29 @@
-> **Latest: corrected dataset reconciled; English draft rewritten.** [Current status](review/CURRENT_RECONCILIATION.md) supersedes earlier numerical blockers below. The current master/tables use the newly supplied file; no unresolved diagnosis or employment count remains.
-
-> **Latest review: 21 September 2026.** [Full article/reference review](review/FULL_REVIEW_2026-09-21.md) · [Current paper-based master](manuscript/MASTER.md). Original manuscript values take priority by author instruction; old SAV analyses are historical. The paper has unresolved internal numerical conflicts and is not submission-ready.
-
 # YGAP affective temperament study
 
-Working materials for the comparison of high-security forensic psychiatric inpatients, psychiatric outpatients and healthy controls. Target journal: International Journal of Law and Psychiatry.
+## Current version
 
-## Current status
+Final language revision for author review, 21 October 2026. The English manuscript and three tables use the verified dataset-based results. Wording has been edited for clarity; all 31 references and verified numerical results are retained. This is an editorial final version, not confirmation that all submission requirements have been completed.
 
-Implementation checkpoint dated 19 September 2026. The manuscript is **not ready for submission**: diagnosis and employment codes, source-record verification and several recruitment details remain unresolved. See [failure diagnosis](review/FAILURE_DIAGNOSIS.md).
+- [English manuscript](manuscript/MASTER.md)
+- [Study tables](manuscript/TABLES.md)
+- [Matching Word manuscript](manuscript/01_IJLP_Manuscript.docx)
+- [Matching Word tables](manuscript/02_IJLP_Tables.docx)
+- [Final revision checks and remaining author decisions](review/FINAL_LANGUAGE_REVIEW_2026-10-21.md)
+- [Numerical verification and missing-variable inventory](review/YGAP_Data_Verification_and_Missing_Variables.md)
+- [Verified aggregate results](analysis/generated/current_results.json)
 
-- [Master English manuscript](manuscript/MASTER.md): the only active English draft, with explicit author queries.
-- [Fresh cell-by-cell paper comparison](analysis/PAPER_CROSSCHECK.md): all original table values and 15 temperament contrasts; regenerate with `python analysis/crosscheck_paper.py`.
-- [Reproduced results](analysis/generated/RESULTS.md): aggregate results and sensitivity analyses.
-- [Six detailed phase reports](review/PHASES.md): evidence, corrections, remaining gates and next actions.
-- [Source-by-source audit](references/SOURCE_AUDIT.md): all 17 original references plus five priority additions, with reading limitations.
-- [Claim audit](review/CLAIM_AUDIT.md): manuscript assertions checked against data and sources.
-- [Reference evidence map](references/EVIDENCE_MAP.md): proposed sources and claim-specific uses.
-- [Source manifest](review/source_manifest.json): hashes for the reviewed inputs.
-- Original Turkish DOCX and SAV remain unchanged at repository root.
+The study compares 66 high-security forensic psychiatric inpatients, 25 psychiatric outpatients and 24 healthy controls, all men. The target journal is the International Journal of Law and Psychiatry.
 
-## Reproduce the numerical audit
+## Before submission
 
-```bash
-python -m pip install -r analysis/requirements.txt
-python analysis/reproduce.py
-```
+The authors must approve the final text and complete the declarations, confirm the ethics committee name and the outstanding chapter publication year, and complete source-record/scoring verification locally. Detailed instructions are in the final revision checks above. Unconfirmed declarations remain marked in the manuscript rather than being invented.
 
-The script reads the existing SAV and writes aggregate Markdown and JSON. It checks selected results against archived SPSS output. It does not modify observations, infer diagnosis labels, or remove repeated rows. Statistical reproduction is possible without a paid SPSS license.
+## Data protection
 
-The archived syntax is in `analysis/YGAP_analiz.sps`; it assumes the dataset is already open in SPSS. The original PDF outputs were inspected locally and identified by hash; they are not required to execute the Python audit.
+The current branch contains no SAV dataset or original participant forms. Do not add participant-level datasets, questionnaire responses, consent documents or linkage keys. The original Turkish research manuscript remains unchanged; it is not a participant source form. Repository privacy does not replace research confidentiality requirements.
 
-## Version policy
+## Analysis and version history
 
-Edit `manuscript/MASTER.md` rather than the historical English snapshot. Mark factual queries until the authors resolve them. Keep the reference evidence map separate from final reference selection. This repository already contains participant-level data and was verified private at this checkpoint; any wider sharing requires a separate data-sharing decision.
+The numerical audit reproduced 373 saved aggregate values from the author-supplied SAV, without changing the dataset. Numerical agreement is distinct from independent verification against original records. The final language pass preserved all reported numerical values and table cells; it did not introduce new analyses.
+
+Earlier English drafts, four-table presentations, analysis reports and phase checklists remain available in Git history or their dated paths. They are historical, not current submission approval. Existing analysis scripts may write manuscript outputs and may include legacy checks; do not run them over the active manuscript without inspecting the generated changes. Paid SPSS software is not required merely to retain and review these aggregate results.
